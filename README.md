@@ -1,7 +1,5 @@
 # Modeling Depressive Patterns in Italian Discourse: insights from Natural Language Processing
-
-# Modeling Depressive Patterns in Italian Discourse  
-*A Natural Language Processing Approach*
+by Annapia Borraccino, M.A
 
 ## 📘 Overview
 
