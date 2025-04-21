@@ -5,11 +5,11 @@
 
 ## 📘 Overview
 
-This project investigates how depression manifests in the spontaneous speech of Italian speakers. Using transcriptions from the **Androids Corpus**, it combines psychological theory, linguistic analysis, and deep learning to identify linguistic markers associated with depression.
+This project investigates how depression manifests in the spontaneous speech of Italian speakers. Using transcriptions from the **Androids Corpus** (Tao et al., 2023), it combines psychological theory, linguistic analysis, and deep learning to identify linguistic markers associated with depression.
 
 ## 🧠 Motivation
 
-Despite growing attention to mental health, depression remains stigmatized in many cultures, including Italy. Given that depression often manifests in subtle language patterns, this study explores how **Natural Language Processing (NLP)** can be used to detect depressive symptoms from textual data—offering a scalable, non-invasive tool for mental health monitoring.
+Despite growing attention to mental health, depression remains stigmatized in many cultures, including Italy. Given that depression often manifests in subtle language patterns, this study explores how **Natural Language Processing (NLP)** can be used to detect depressive symptoms from textual data, offering a non-invasive tool for mental health monitoring.
 
 ## 🔍 Research Questions
 
