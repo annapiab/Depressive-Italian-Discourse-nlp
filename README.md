@@ -1,5 +1,5 @@
 # Modeling Depressive Patterns in Italian Discourse: insights from Natural Language Processing
-by Annapia Borraccino, M.A
+by Annapia Borraccino, M.A (The Graduate Center, CUNY - New York, NY)
 
 ## 📘 Overview
 
