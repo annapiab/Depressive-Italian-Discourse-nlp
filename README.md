@@ -25,8 +25,8 @@ Despite growing attention to mental health, depression remains stigmatized in ma
 - **Lexicon**: [ELIta](https://github.com/edipalm/EliTa) for emotional features
 - **Linguistic Features**: pronouns, verb tense, negation, sentence complexity via [Stanza](https://stanfordnlp.github.io/stanza/)
 - **Models**: Logistic Regression and SVM (baseline)
-- **Accuracy**: **84%**, F1 (depressed): **0.87**
-
+- **Accuracy**: **84%**
+- 
 ### 🤖 Transformer Modeling
 - **Model**: Fine-tuned [BERTino](https://huggingface.co/Musixmatch/umberto-commoncrawl-cased-v1) (Italian BERT variant)
 - **Tokenization**: WordPiece + [CLS]
@@ -41,8 +41,7 @@ Despite growing attention to mental health, depression remains stigmatized in ma
 | BERTino   | 92%      | 0.93           | Self-focus, negation, family/health/time themes |
 
 ## 🧩 Key Contributions
-
+- A first-of-its-kind project using NLP to detect depression in Italian language text
 - Cross-linguistic validation of depression markers in **Italian**
-- Integration of **psycholinguistic theory** with **explainable AI**
 - Demonstrated utility of **text-only** models in mental health screening
 
