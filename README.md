@@ -17,8 +17,7 @@ Despite growing attention to mental health, depression remains stigmatized in ma
 ## 📂 Dataset
 
 - **Source**: Tao et al. (2023) – *The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection*
-- **Sample**: 114 Italian interview transcripts (62 depressed, 52 control)
-- **Tasks**: Interview Task (spontaneous speech only)
+- **Sample**: 114 Italian interview transcripts (62 depressed, 52 control) from Tao's (2023) Interview Task (spontaneous speech only)
 
 ## 🛠 Methods
 
@@ -32,14 +31,14 @@ Despite growing attention to mental health, depression remains stigmatized in ma
 - **Model**: Fine-tuned [BERTino](https://huggingface.co/Musixmatch/umberto-commoncrawl-cased-v1) (Italian BERT variant)
 - **Tokenization**: WordPiece + [CLS]
 - **Explainability**: [BERTViz](https://github.com/jessevig/bertviz) for attention insights
-- **Accuracy**: **92%**, **Perfect recall** for depressed class
+- **Accuracy**: **92%**
 
 ## 📈 Results Summary
 
 | Model     | Accuracy | F1 (Depressed) | Notable Features |
 |-----------|----------|----------------|------------------|
 | SVM       | 84%      | 0.87           | Joy, past tense, negation, 1st-person markers |
-| BERTino   | 92%      | 1.00           | Self-focus, negation, family/health/time themes |
+| BERTino   | 92%      | 0.93           | Self-focus, negation, family/health/time themes |
 
 ## 🧩 Key Contributions
 
