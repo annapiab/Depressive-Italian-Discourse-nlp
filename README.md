@@ -17,7 +17,7 @@ Despite growing attention to mental health, depression remains stigmatized in ma
 ## 📂 Dataset
 
 - **Source**: Tao et al. (2023) – *The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection*
-- **Samples**: 115 Italian interview transcripts (63 depressed, 52 control)
+- **Sample**: 114 Italian interview transcripts (62 depressed, 52 control)
 - **Tasks**: Interview Task (spontaneous speech only)
 
 ## 🛠 Methods
